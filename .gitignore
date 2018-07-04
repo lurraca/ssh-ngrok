@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+ssh-ngrok
 
 # Test binary, build with `go test -c`
 *.test
